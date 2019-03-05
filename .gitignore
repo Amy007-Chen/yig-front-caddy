@@ -29,3 +29,5 @@ caddy/prometheus
 
 caddy/*.pem
 caddy/*.key
+
+rpm-build/

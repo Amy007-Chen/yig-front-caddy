@@ -2,19 +2,17 @@ language: go
 sudo: required
 dist: trusty
 
-go:
-  - 1.11
-
 before_install:
   # Decrypts a script that installs an authenticated cookie
   # for git to use when cloning from googlesource.com.
   # Bypasses "bandwidth limit exceeded" errors.
   # See github.com/golang/go/issues/12933
-go get github.com/caddyserver/builds
+  - go get github.com/caddyserver/builds
+  - sudo apt-get install rpmbuild -y
 
 install:
-make build
-
+  - make build
+  - make pkg
 script:
 
 

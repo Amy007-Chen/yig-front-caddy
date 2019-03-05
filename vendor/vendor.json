@@ -1,0 +1,192 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "YsE+pSWseqZWulJzCjrkGKkdMnY=",
+			"path": "github.com/beorn7/perks/quantile",
+			"revision": "4c0e84591b9aa9e6dcfdf3e020114cd81f89d5f9",
+			"revisionTime": "2016-08-04T10:47:26Z"
+		},
+		{
+			"checksumSHA1": "9W/M3Lc5ZvoULWDzQ1k+H0TWy5U=",
+			"path": "github.com/caddyserver/builds",
+			"revision": "c62e2219460a8828970dad09212c3a4cec40b56c",
+			"revisionTime": "2017-09-10T20:08:10Z"
+		},
+		{
+			"checksumSHA1": "BfM/YCrpBDpPgghMMFt8bHuGuG4=",
+			"path": "github.com/cep21/circuit",
+			"revision": "e893c027dc2184661a6db3cc4186bf2ad018866e",
+			"revisionTime": "2018-10-30T18:09:45Z"
+		},
+		{
+			"checksumSHA1": "Hkjfjw6zwqQAPAZg7ur+bC7cItY=",
+			"path": "github.com/cep21/circuit/closers/hystrix",
+			"revision": "e893c027dc2184661a6db3cc4186bf2ad018866e",
+			"revisionTime": "2018-10-30T18:09:45Z"
+		},
+		{
+			"checksumSHA1": "oshkO0d+8HHBTB3x2XzOdTWHc0o=",
+			"path": "github.com/cep21/circuit/faststats",
+			"revision": "e893c027dc2184661a6db3cc4186bf2ad018866e",
+			"revisionTime": "2018-10-30T18:09:45Z"
+		},
+		{
+			"checksumSHA1": "tiBqnd0/giHv1S73hwxz0uwdv7s=",
+			"path": "github.com/cep21/circuit/internal/clock",
+			"revision": "e893c027dc2184661a6db3cc4186bf2ad018866e",
+			"revisionTime": "2018-10-30T18:09:45Z"
+		},
+		{
+			"checksumSHA1": "M8x0Tj3vncMzOYunsjMSIqknNTw=",
+			"path": "github.com/cep21/circuit/internal/evar",
+			"revision": "e893c027dc2184661a6db3cc4186bf2ad018866e",
+			"revisionTime": "2018-10-30T18:09:45Z"
+		},
+		{
+			"checksumSHA1": "p4LfbtVWsGSdxYvn1FOqKY7sTaE=",
+			"path": "github.com/cep21/circuit/internal/testhelp",
+			"revision": "e893c027dc2184661a6db3cc4186bf2ad018866e",
+			"revisionTime": "2018-10-30T18:09:45Z"
+		},
+		{
+			"checksumSHA1": "MEGu8BMDgapDKpZnDTqiHC3HLwE=",
+			"path": "github.com/cep21/circuit/metrics/rolling",
+			"revision": "e893c027dc2184661a6db3cc4186bf2ad018866e",
+			"revisionTime": "2018-10-30T18:09:45Z"
+		},
+		{
+			"checksumSHA1": "B5HfcRjCrks1xQcuoU/nLf5v/1E=",
+			"path": "github.com/dgrijalva/jwt-go",
+			"revision": "3af4c746e1c248ee8491a3e0c6f7a9cd831e95f8",
+			"revisionTime": "2018-09-21T17:23:15Z"
+		},
+		{
+			"checksumSHA1": "PPw7uxTwitSQ/0qN7k/sxV80UHI=",
+			"path": "github.com/dgrijalva/jwt-go/request",
+			"revision": "3af4c746e1c248ee8491a3e0c6f7a9cd831e95f8",
+			"revisionTime": "2018-09-21T17:23:15Z"
+		},
+		{
+			"checksumSHA1": "/ibMJtZibmIJwKZDKCOUZWSbf8M=",
+			"path": "github.com/dgrijalva/jwt-go/test",
+			"revision": "3af4c746e1c248ee8491a3e0c6f7a9cd831e95f8",
+			"revisionTime": "2018-09-21T17:23:15Z"
+		},
+		{
+			"checksumSHA1": "Ap3fxoENMwxwOM77e56TlCVt+7o=",
+			"path": "github.com/golang/protobuf/proto/test_proto",
+			"revision": "347cf4a86c1cb8d262994d8ef5924d4576c5b331",
+			"revisionTime": "2019-01-09T07:22:47Z"
+		},
+		{
+			"checksumSHA1": "WOkXetG3AqJnfVVuqTJvdukcHps=",
+			"path": "github.com/golang/protobuf/protoc-gen-go/descriptor",
+			"revision": "347cf4a86c1cb8d262994d8ef5924d4576c5b331",
+			"revisionTime": "2019-01-09T07:22:47Z"
+		},
+		{
+			"checksumSHA1": "iyybJ/oXMj5pXj5BhuiKyTIVOxs=",
+			"path": "github.com/golang/protobuf/ptypes",
+			"revision": "347cf4a86c1cb8d262994d8ef5924d4576c5b331",
+			"revisionTime": "2019-01-09T07:22:47Z"
+		},
+		{
+			"checksumSHA1": "RE9rLveNHapyMKQC8p10tbkUE9w=",
+			"path": "github.com/golang/protobuf/ptypes/duration",
+			"revision": "347cf4a86c1cb8d262994d8ef5924d4576c5b331",
+			"revisionTime": "2019-01-09T07:22:47Z"
+		},
+		{
+			"checksumSHA1": "seEwY2xETpK9yHJ9+bHqkLZ0VMU=",
+			"path": "github.com/golang/protobuf/ptypes/timestamp",
+			"revision": "347cf4a86c1cb8d262994d8ef5924d4576c5b331",
+			"revisionTime": "2019-01-09T07:22:47Z"
+		},
+		{
+			"checksumSHA1": "A0zS09FfwTgVp7v0xGDYVwTRzSk=",
+			"path": "github.com/matttproud/golang_protobuf_extensions/pbutil",
+			"revision": "c12348ce28de40eed0136aa2b644d0ee0650e56c",
+			"revisionTime": "2016-04-24T11:30:07Z"
+		},
+		{
+			"checksumSHA1": "fROk3NEFAz88JXptqo4kpwD15Ic=",
+			"path": "github.com/matttproud/golang_protobuf_extensions/testdata",
+			"revision": "c12348ce28de40eed0136aa2b644d0ee0650e56c",
+			"revisionTime": "2016-04-24T11:30:07Z"
+		},
+		{
+			"checksumSHA1": "ONn98YTXyfGJW8/J+9oGars71Fk=",
+			"path": "github.com/prometheus/client_golang/prometheus",
+			"revision": "5cec1d0429b02e4323e042eb04dafdb079ddf568",
+			"revisionTime": "2017-10-05T11:29:15Z"
+		},
+		{
+			"checksumSHA1": "BqHGgEJmhOsoOXtf0kSLk5Gvgfs=",
+			"path": "github.com/prometheus/client_golang/prometheus/promhttp",
+			"revision": "5cec1d0429b02e4323e042eb04dafdb079ddf568",
+			"revisionTime": "2017-10-05T11:29:15Z"
+		},
+		{
+			"checksumSHA1": "DvwvOlPNAgRntBzt3b3OSRMS2N4=",
+			"path": "github.com/prometheus/client_model/go",
+			"revision": "6f3806018612930941127f2a7c6c453ba2c527d2",
+			"revisionTime": "2017-02-16T18:52:47Z"
+		},
+		{
+			"checksumSHA1": "akf1+pARz65GfJSddnFkfxesB+I=",
+			"path": "github.com/prometheus/common/expfmt",
+			"revision": "1bab55dd05dbff384524a6a1c99006d9eb5f139b",
+			"revisionTime": "2017-10-06T14:14:18Z"
+		},
+		{
+			"checksumSHA1": "a1OXFmUUHuE4uYgNLx5U0Sv2reg=",
+			"path": "github.com/prometheus/common/internal/bitbucket.org/ww/goautoneg",
+			"revision": "1bab55dd05dbff384524a6a1c99006d9eb5f139b",
+			"revisionTime": "2017-10-06T14:14:18Z"
+		},
+		{
+			"checksumSHA1": "bRgmST1pb/lQfn6RErUF2TyXvS0=",
+			"path": "github.com/prometheus/common/model",
+			"revision": "1bab55dd05dbff384524a6a1c99006d9eb5f139b",
+			"revisionTime": "2017-10-06T14:14:18Z"
+		},
+		{
+			"checksumSHA1": "c8ydDUbGWnS39jilUJ+0ujVKxq0=",
+			"path": "github.com/prometheus/procfs",
+			"revision": "a6e9df898b1336106c743392c48ee0b71f5c4efa",
+			"revisionTime": "2017-10-17T21:40:25Z"
+		},
+		{
+			"checksumSHA1": "PSFN2xptsMI+F7mOulD9zqqiLUA=",
+			"path": "github.com/prometheus/procfs/xfs",
+			"revision": "a6e9df898b1336106c743392c48ee0b71f5c4efa",
+			"revisionTime": "2017-10-17T21:40:25Z"
+		},
+		{
+			"checksumSHA1": "992zb+A6rcj4K79cmWjoqXH3F4E=",
+			"path": "golang.org/x/crypto/acme",
+			"revision": "bd6f299fb381e4c3393d1c4b1f0b94f5e77650c8",
+			"revisionTime": "2017-10-31T10:16:35Z"
+		},
+		{
+			"checksumSHA1": "E1MWqT0f7B2I9wNbm2vLtQXILeo=",
+			"path": "golang.org/x/crypto/acme/autocert",
+			"revision": "bd6f299fb381e4c3393d1c4b1f0b94f5e77650c8",
+			"revisionTime": "2017-10-31T10:16:35Z"
+		},
+		{
+			"checksumSHA1": "f2c9iL80A0QRAN9FUVA9Aq1i914=",
+			"path": "golang.org/x/net/websocket",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "N4WObJwRFBC6QDe67fHtXLnAAB4=",
+			"path": "golang.org/x/sync/errgroup",
+			"revision": "fd80eb99c8f653c847d294a001bdf2a3a6f768f5",
+			"revisionTime": "2017-11-01T19:49:15Z"
+		}
+	],
+	"rootPath": "github.com/journeymidnight/yig-front-caddy"
+}

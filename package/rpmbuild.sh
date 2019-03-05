@@ -11,7 +11,7 @@ REL=`git rev-parse --short HEAD`git
 REL=`git log --oneline|wc -l`.$REL
 RPMTOPDIR=$GITROOT/rpm-build
 echo "Ver: $VER, Release: $REL"
-
+pwd
 
 rm -rf $RPMTOPDIR
 # Create tarball
